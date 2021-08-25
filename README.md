@@ -30,5 +30,5 @@ MacOs ,Windows, Linux ,Ubuntu ,Kali Linux
 Android Studio ,Visual Studio Code, Apache Netbeans, Eclipse  ,Sublime Text ,Pycharm
 
 
-My Future Project :- Chess Engine like chess.com  and AI Rubic Cube solver Using Opencv
+My Future Advance Project :- Chess Engine like chess.com  and AI Rubic Cube solver Using Opencv
 
