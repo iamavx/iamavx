@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamavx
 - 👀 I’m interested in Machine learning ,Artificial intelligence and computer vision. I have already done AI and Computer vision project like sudoku solver and    virtual Paint etc.Other than this I am writing blog on medium about latest technology and advance data structure .
-- 🌱 I’m currently active in Competitive programming . My codechef rating is 1715(3-star).
+- 🌱 I’m currently active in Competitive programming . My codechef rating is 1715(3-star).Along with this I got 413-Rank in codechef April long Challenge out of 30 thousands participants.I have experience of solving 500+ problem on platform like Codechef ,Leetcode,GFG,Hackerearth,codeforces etc.
 - 📫 you can contact  me on email - a.abhishek58011@gmail.com
 
 
