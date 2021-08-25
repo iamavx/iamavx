@@ -4,3 +4,23 @@
 - 📫 you can contact on me email - a.abhishek58011@gmail.com
 
 
+👨‍💻 Programming languages
+C Java Python HTML CSS c++
+
+🧰 Frameworks and librarie
+GitHub Actions  NumPy Pandas TensorFlow OpenCv JFrame
+
+🗄️ Databases and cloud hosting
+GitHub  MySQL Oracle
+
+💻 Software and tool
+ Git Google Sheets  OBS Studio Stack Overflow Visual Studio Code filmora
+
+💻 OS
+MacOs Windows Linux Ubuntu Kali Linux
+
+👨‍💻 IDE
+Android Studio Visual Studio Code Apache Netbeans Eclipse Sublime Text Pycharm
+
+
+
